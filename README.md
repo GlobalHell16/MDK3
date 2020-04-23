@@ -21,5 +21,5 @@ So lets begin:
 5) Find the channel no. your target is on and then in the mdk3 terminal type <b>" sudo mdk3 (monitor-mode interface) d -c (your targets channel number)"</b>  example: <b>"sudo mdk3 wlan0mon d -c 10"</b>]
 
 
-
+<br><br><br>
 Now the wifi network of your target is jammed ad it wont staop until you stop the program by ressing ctrl+c
